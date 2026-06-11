@@ -1,38 +1,45 @@
 # Module 01: JavaScript Engine Dynamics & DOM Manipulation
 
-## Why This Module Matters
+## Module Overview
 
-JavaScript powers modern web applications. Understanding how JavaScript executes code, manages memory, handles events, and interacts with the DOM is essential for frontend and full-stack development.
+This module introduces students to the internal workings of JavaScript and browser-based application development.
+
+---
 
 ## Learning Outcomes
 
-Students will be able to:
-
-- Understand JavaScript execution flow
-- Differentiate primitive and reference types
-- Explain scope and hoisting
+- Understand execution contexts
+- Understand memory allocation
+- Understand scope and hoisting
 - Manipulate DOM elements
 - Handle browser events
-- Debug common JavaScript errors
+- Debug runtime errors
 
-## Concept Roadmap
+---
 
-1. Variables and Data Types
-2. Scope and Hoisting
-3. Functions
-4. Arrays and Objects
-5. DOM Manipulation
-6. Event Handling
-7. Debugging Fundamentals
+## Learning Roadmap
 
-## Guided Project
+| Week | Concept | Activity |
+|--------|----------|----------|
+| 1 | Variables & Data Types | Experiment |
+| 2 | Scope & Hoisting | Visualization |
+| 3 | Functions | Coding Lab |
+| 4 | Arrays & Objects | Practice |
+| 5 | DOM Manipulation | Mini App |
+| 6 | Events | Interactive UI |
+| 7 | Debugging | Error Investigation |
+
+---
+
+## Module Resources
+
+- Resources Guide
+- JavaScript Engine Architecture
+- Debugging Lab
+- Guided Project
+
+---
+
+## Final Deliverable
 
 Student Grade Analyzer
-
-## Industry Extension
-
-Real-world JSON Data Processing
-
-## Proof of Work
-
-GitHub Repository + Documentation + Reflection Report
