@@ -53,6 +53,8 @@ let student = {
   cgpa: 9.2
 };
 
+--------------------------------------------------------
+
 Call Stack
 
 Purpose:
@@ -72,6 +74,8 @@ Global()
 greet()
 ↓
 console.log()
+
+----------------------------------------------------------
 Event Queue
 
 Purpose:
@@ -82,6 +86,8 @@ Example:
 setTimeout(() => {
   console.log("Done");
 }, 1000);
+
+
 DOM Interaction
 
 HTML
