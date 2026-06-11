@@ -283,3 +283,76 @@ Check:
 
 ```javascript
 fetch("http://localhost:5000/students")
+
+Verify that the backend service is active.
+
+Unexpected Token in JSON
+
+Possible Cause:
+
+Response is not valid JSON.
+
+Check:
+response.json()
+
+Ensure the backend returns properly formatted JSON.
+
+CORS Error
+
+Possible Cause:
+
+Frontend and backend are running on different origins.
+
+Example:
+
+Frontend:
+
+http://localhost:3000
+
+Backend:
+
+http://localhost:5000
+
+Solution:
+
+Enable CORS middleware in Express.js.
+
+Students will learn this in the upcoming backend module.
+
+Industry Connection
+
+Every modern application relies on frontend-backend communication.
+
+Examples:
+
+Amazon Product Catalog
+Netflix Movie Listings
+LinkedIn User Profiles
+Swiggy Order Tracking
+Banking Dashboards
+University Management Systems
+
+The concepts in this module serve as the foundation for:
+
+Node.js
+Express.js
+Database Connectivity
+Authentication Systems
+Full Stack Development
+Self-Study Challenge
+
+Explore a public API and display its data inside a React application.
+
+Suggested APIs:
+
+JSONPlaceholder
+https://jsonplaceholder.typicode.com
+DummyJSON
+https://dummyjson.com
+OpenWeather
+https://openweathermap.org/api
+
+Goal:
+
+Practice fetching, storing, and displaying real-world data using React.
+
