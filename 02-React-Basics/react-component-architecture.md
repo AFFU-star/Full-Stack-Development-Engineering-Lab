@@ -1,4 +1,4 @@
-                
+
    
 
 # React Component Architecture: A Visual Guide to Modern Frontend Engineering
