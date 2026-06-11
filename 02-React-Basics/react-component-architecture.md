@@ -79,7 +79,7 @@ Maintenance Difficulties: As thousands of features are added, tracking which fun
 3. Component-Based Architecture (The Modular Approach)
 React introduces a radical shift: instead of separating code by its technology files (HTML vs. CSS vs. JS), we group them by functionality. We build encapsulated modules called Components that possess their own structural layout, styling, and functional logic all packaged in one place.
 
-     ![Image Description](img2.jpg)
+     ![Image Description](img2.jpg) 
 
 
 
