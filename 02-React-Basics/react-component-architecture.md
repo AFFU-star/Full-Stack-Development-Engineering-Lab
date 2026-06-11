@@ -1,4 +1,5 @@
-                       <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/e2b2c27f-2290-4fbe-aa56-3738067f73ce" />
+                      ![Architecture Diagram 1](img1.jpg)
+                      
 
 
 # React Component Architecture: A Visual Guide to Modern Frontend Engineering
