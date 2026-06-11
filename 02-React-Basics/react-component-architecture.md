@@ -1,3 +1,4 @@
+![Image Description](img1.jpg) 
 
    
 
@@ -78,7 +79,8 @@ Maintenance Difficulties: As thousands of features are added, tracking which fun
 3. Component-Based Architecture (The Modular Approach)
 React introduces a radical shift: instead of separating code by its technology files (HTML vs. CSS vs. JS), we group them by functionality. We build encapsulated modules called Components that possess their own structural layout, styling, and functional logic all packaged in one place.
 
-      <img width="3999" height="2283" alt="image" src="https://github.com/user-attachments/assets/e81e1d4a-d019-4b20-b77c-02d7cb832391" />
+     ![Image Description](img2.jpg)
+
 
 
     Here is how that exact same application is broken down into clean, independent React modules:
