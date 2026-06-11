@@ -67,3 +67,20 @@ Deep conceptual understanding of:
 - Closures
 - Event Loop
 - Scope Chains
+
+  -----------------------------------------------------------------------------------------------------------------------
+
+  Official Documentation
+MDN JavaScript
+MDN DOM
+ECMAScript Language Specification (optional)
+Industry Learning
+JavaScript.info
+Lydia Hallie Visualized Series
+Namaste JavaScript
+Interactive Simulators
+JSV9000 — visualize execution context and call stack
+JS Tutor — step-by-step execution visualization
+Practice Platforms
+Exercism JavaScript Track
+Frontend Mentor (for DOM projects)
