@@ -1,0 +1,167 @@
+# Proof-of-Work Assignment 02: Student Profile Analytics System
+
+## Assignment Overview
+
+Modern software systems rarely work with isolated variables. Instead, they process collections of structured data such as student records, employee information, customer profiles, and product inventories.
+
+This assignment introduces students to modern JavaScript (ES6+) concepts through the development of a Student Profile Analytics System.
+
+The goal is not merely to write code but to demonstrate how modern JavaScript can be used to manage, analyze, and transform structured datasets.
+
+---
+
+## Problem Statement
+
+Develop a JavaScript application that manages a collection of student profiles and generates useful academic insights.
+
+Each student profile should contain:
+
+* Student ID
+* Student Name
+* Department
+* CGPA
+* Skills
+
+Example:
+
+{
+id: 101,
+name: "Rahul",
+department: "CSE",
+cgpa: 8.7,
+skills: ["JavaScript", "Python"]
+}
+
+---
+
+## Learning Objectives
+
+Upon successful completion, students should be able to:
+
+* Work with Objects and Arrays
+* Use Arrow Functions
+* Apply Template Literals
+* Utilize Destructuring
+* Implement Spread Operator
+* Process datasets using map()
+* Filter records using filter()
+* Locate records using find()
+* Read and manipulate JSON data
+
+---
+
+## Functional Requirements
+
+### Task 1: Display Student Information
+
+Print all student details in a structured format.
+
+---
+
+### Task 2: Find Top Performers
+
+Display students whose CGPA is greater than 8.5.
+
+---
+
+### Task 3: Search Student
+
+Search a student using Student ID.
+
+---
+
+### Task 4: Department Statistics
+
+Display the number of students belonging to each department.
+
+---
+
+### Task 5: Skill Analysis
+
+Generate a list of unique skills possessed by all students.
+
+---
+
+## Mandatory ES6 Concepts
+
+Your solution must demonstrate:
+
+✓ let and const
+
+✓ Arrow Functions
+
+✓ Template Literals
+
+✓ Object Destructuring
+
+✓ Array Destructuring
+
+✓ Spread Operator
+
+✓ map()
+
+✓ filter()
+
+✓ find()
+
+✓ JSON Processing
+
+---
+
+## Extension Challenges
+
+Challenge 1
+
+Sort students based on CGPA.
+
+Challenge 2
+
+Generate a Top 5 Student Leaderboard.
+
+Challenge 3
+
+Identify students with similar skill sets.
+
+Challenge 4
+
+Generate department-wise performance reports.
+
+Challenge 5
+
+Export results into JSON format.
+
+---
+
+## Expected Deliverables
+
+1. Source Code
+2. GitHub Repository
+3. README Documentation
+4. Sample Dataset
+5. Reflection Report
+
+---
+
+## Reflection Questions
+
+1. Which ES6 feature improved code readability the most?
+
+2. How did map() and filter() simplify data processing?
+
+3. What challenges did you face while handling structured datasets?
+
+4. How would this system scale to thousands of student records?
+
+---
+
+## Evaluation Rubric
+
+| Criterion     | Weightage |
+| ------------- | --------- |
+| Functionality | 35%       |
+| ES6 Usage     | 25%       |
+| Code Quality  | 15%       |
+| Documentation | 15%       |
+| Reflection    | 10%       |
+
+This assignment emphasizes structured problem solving, data transformation, and modern JavaScript practices used in real-world software development.
