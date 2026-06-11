@@ -1,5 +1,4 @@
-                ![Architecture Diagram 1](https://raw.githubusercontent.com/AFFU-star/Full-Stack-Development-Engineering-Lab/main/02-React-Basics/img1.jpg)
-                      
+                
 
 
 # React Component Architecture: A Visual Guide to Modern Frontend Engineering
