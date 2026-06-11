@@ -1,4 +1,4 @@
-                      ![Architecture Diagram 1](img1.jpg)
+                 ![Architecture Diagram 1](./img1.jpg)
                       
 
 
