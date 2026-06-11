@@ -1,4 +1,5 @@
-                       
+                       <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/e2b2c27f-2290-4fbe-aa56-3738067f73ce" />
+
 
 # React Component Architecture: A Visual Guide to Modern Frontend Engineering
 
@@ -77,7 +78,7 @@ Maintenance Difficulties: As thousands of features are added, tracking which fun
 3. Component-Based Architecture (The Modular Approach)
 React introduces a radical shift: instead of separating code by its technology files (HTML vs. CSS vs. JS), we group them by functionality. We build encapsulated modules called Components that possess their own structural layout, styling, and functional logic all packaged in one place.
 
-                        <img width="3999" height="2283" alt="image" src="https://github.com/user-attachments/assets/b0b42c03-2ed9-48ad-a98d-49eada7b7198" />
+      <img width="3999" height="2283" alt="image" src="https://github.com/user-attachments/assets/e81e1d4a-d019-4b20-b77c-02d7cb832391" />
 
 
     Here is how that exact same application is broken down into clean, independent React modules:
