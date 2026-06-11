@@ -74,13 +74,16 @@ Deep conceptual understanding of:
 MDN JavaScript
 MDN DOM
 ECMAScript Language Specification (optional)
-Industry Learning
+
+  Industry Learning
 JavaScript.info
 Lydia Hallie Visualized Series
 Namaste JavaScript
-Interactive Simulators
+
+  Interactive Simulators
 JSV9000 — visualize execution context and call stack
 JS Tutor — step-by-step execution visualization
-Practice Platforms
+
+  Practice Platforms
 Exercism JavaScript Track
 Frontend Mentor (for DOM projects)
