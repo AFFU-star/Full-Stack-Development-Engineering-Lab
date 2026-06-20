@@ -1,0 +1,26 @@
+{
+  "project_name": "AutoScientist",
+  "version": "1.0.0",
+  "research_hypothesis": "Autonomous curriculum synchronization minimizes skill-gap decay.",
+  "baseline_curriculum": {
+    "source": "FSD-II.pdf",
+    "course_outcomes": ["CO1", "CO2", "CO3", "CO4", "CO5"],
+    "modules": [
+      {
+        "id": "01",
+        "title": "Modern JavaScript & DOM",
+        "status": "stable"
+      },
+      {
+        "id": "02",
+        "title": "React Foundations",
+        "status": "stable"
+      }
+    ]
+  },
+  "pipeline_config": {
+    "sensor": "Apify/Firecrawl",
+    "evaluator": "FSD-Instructor-7B",
+    "persistence": "GitHub-PRs"
+  }
+}
